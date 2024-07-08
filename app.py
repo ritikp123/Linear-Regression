@@ -31,4 +31,4 @@ if st.button("Seles Prediction "):
     result = clf.predict(np.array([[tv,rd,newspaper]]))
     st.text(result[0])
 
-st.markdown("Developed By Pradeep Ale at NIELIT Daman")
+st.markdown("Developed By RITIK PASWAN at NIELIT Daman")
